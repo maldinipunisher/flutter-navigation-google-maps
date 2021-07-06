@@ -1,6 +1,7 @@
 # Flutter gmaps auto navigation
 
 **Before running project**
+- Use Google "Maps SDK For Android", "Maps SDK For IOS" & "Direction API"
 - add apikey to "%PROJECT%/android/app/src/main/androidManifest.xml", "%PROJECT%/ios/Runner/AppDelegate.swift", "%PROJECT%/lib/main.dart"
 - Run "flutter pub get" 
 
